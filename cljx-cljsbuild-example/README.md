@@ -11,6 +11,10 @@ each.
 You will need a version of leiningen with
 https://github.com/technomancy/leiningen/pull/1673 applied.
 
+[My cljx fork](https://github.com/hugoduncan/cljx).
+
+[My cljsbuild fork](https://github.com/hugoduncan/lein-cljsbuild).
+
 ## License
 
 Copyright © 2014 Hugo Duncan
