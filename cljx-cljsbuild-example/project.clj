@@ -10,7 +10,7 @@
              :dev [:plugin.cljx/mixed-test
                    :plugin.cljsbuild/mixed-source-dev
                    :plugin.cljsbuild/mixed-test
-                   :plugin.cljsbuild/with-source-dev
+                   :plugin.cljsbuild/with-generated-source-dev
                    :plugin.cljsbuild/with-generated-test]}
   :plugins [[com.keminglabs/cljx "hd-0.4.1-SNAPSHOT"]
             [lein-cljsbuild "hd-1.0.4-SNAPSHOT"]
