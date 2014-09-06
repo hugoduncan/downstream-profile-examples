@@ -4,16 +4,16 @@ An example project with profiles from dev versions of cljsbuild and cljx.
 
 ## Usage
 
-You will need to checkout my forks of the cljx and cljsbuild projects
-and checkout and install the feature/add-project-profile branches of
-each.
+You will need to checkout my
+[cljx fork](https://github.com/hugoduncan/cljx) and
+[cljsbuild fork](https://github.com/hugoduncan/lein-cljsbuild) and
+install the feature/add-project-profile branches of each.
 
 You will need a version of leiningen with
-https://github.com/technomancy/leiningen/pull/1673 applied.
-
-[My cljx fork](https://github.com/hugoduncan/cljx).
-
-[My cljsbuild fork](https://github.com/hugoduncan/lein-cljsbuild).
+https://github.com/technomancy/leiningen/pull/1673 applied.  The patch
+has still some issues, so you can use the
+`technomancy-profiles-from-plugins` branch from
+[my leiningen fork](https://github.com/hugoduncan/leiningen).
 
 ## License
 
