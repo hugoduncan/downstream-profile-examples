@@ -10,9 +10,9 @@ You will need to checkout my
 install the feature/add-project-profile branches of each.
 
 You will need a version of leiningen with
-https://github.com/technomancy/leiningen/pull/1673 applied.  The patch
+https://github.com/technomancy/leiningen/pull/1682 applied.  The patch
 has still some issues, so you can use the
-`technomancy-profiles-from-plugins` branch from
+`integration` branch from
 [my leiningen fork](https://github.com/hugoduncan/leiningen).
 
 ## License
