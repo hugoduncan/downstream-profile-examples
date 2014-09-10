@@ -1,7 +1,6 @@
 # downstream-profile-examples
 
-Example projects for using :downstream profiles with plugin injected
-profiles.
+Example projects for using profile metadata.
 
 ## Usage
 
